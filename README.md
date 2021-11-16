@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @wheresthecat
 - 👀 I’m interested in low level programming.
 - 🌱 I’m currently learning ASM, C and a little bit of C# for my work related problems.
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... well I am a noob, why would someone like to reach me. :D
 
 Also I love cats.
